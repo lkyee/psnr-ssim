@@ -1,0 +1,18 @@
+**********************
+Method_1: RCAN; Set: Set14
+x4 1 baboon.png: PSNR= 22.991749 SSIM= 0.532201
+x4 2 barbara.png: PSNR= 26.068460 SSIM= 0.751472
+x4 3 bridge.png: PSNR= 25.393291 SSIM= 0.639736
+x4 4 coastguard.png: PSNR= 26.381424 SSIM= 0.570838
+x4 5 comic.png: PSNR= 23.493403 SSIM= 0.727887
+x4 6 face.png: PSNR= 32.783906 SSIM= 0.792353
+x4 7 flowers.png: PSNR= 28.216460 SSIM= 0.814715
+x4 8 foreman.png: PSNR= 33.878581 SSIM= 0.930195
+x4 9 lenna.png: PSNR= 32.416477 SSIM= 0.862579
+x4 10 man.png: PSNR= 27.396045 SSIM= 0.751676
+x4 11 monarch.png: PSNR= 32.708955 SSIM= 0.942161
+x4 12 pepper.png: PSNR= 34.262181 SSIM= 0.880559
+x4 13 ppt3.png: PSNR= 26.656542 SSIM= 0.947519
+x4 14 zebra.png: PSNR= 27.470064 SSIM= 0.780701
+--------Mean--------
+x4: PSNR= 28.579824 SSIM= 0.780328
